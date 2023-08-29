@@ -1,2 +1,2 @@
-def max(a, b):
+def maximum(a, b):
     return max(a, b)
