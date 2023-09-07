@@ -1,3 +1,8 @@
+"""
+Welcome to super calculator
+.. include:: ../README.md
+"""
+
 try:
     from .sum import sum
 except ModuleNotFoundError:
